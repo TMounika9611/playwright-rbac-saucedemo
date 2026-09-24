@@ -49,3 +49,6 @@ Best Practices:
 - test.slow() for performance_glitch_user
 - Tags @smoke @sanity @regression for selective runs
 - playwright/.auth/gitignored
+
+Generic Playwright TypeScript Hybrid Framework (UI+API)
+- Covers: UI POM + API Interception + Collections ( for Service Cloud Case Referral pattern)
